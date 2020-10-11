@@ -8,3 +8,7 @@ This project is part of udemy course about react
 
 This app basically finds github profiles and then displays info about the github user  
 We are using context api to manage state for the app
+
+# Demo
+
+https://ammar-github-finder.netlify.app/
